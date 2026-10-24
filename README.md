@@ -1,4 +1,4 @@
-# Resonance — Vinyl Subscription & Hi-Fi Club
+# Resonance - Vinyl Subscription & Hi-Fi Club
 
 ## 1. Project Overview & Concept
 **Resonance** is a boutique direct-to-consumer vinyl subscription service tailored for audiophiles, analog sound purists, and modern music collectors. 
